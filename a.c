@@ -1,3 +1,3 @@
 this is aa in newBranch
-hello from master branch
+hello from newBranch branch
 xx
