@@ -8,3 +8,4 @@ hello from newBranch branch
 xx
 
 edited online
+edit newBranch local
